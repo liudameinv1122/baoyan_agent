@@ -1,0 +1,37 @@
+{
+  "mode": "sample",
+  "activity": {
+    "title": "大三保研冲刺直播",
+    "audience": "students",
+    "scheduled_at": "2026-12-05T20:00:00",
+    "channel": "视频号直播",
+    "brief": "用三个问题盘点课程成绩与科研经历\n规划寒假前的行动事项和时间节点\n直播集中答疑，整理材料准备清单",
+    "seconds": 25,
+    "mode": "sample",
+    "outputs": [
+      "poster",
+      "video",
+      "copy"
+    ]
+  },
+  "approved_plan": {
+    "headline": "大三保研冲刺直播",
+    "points": [
+      "用三个问题盘点课程成绩与科研经历",
+      "规划寒假前的行动事项和时间节点",
+      "直播集中答疑，整理材料准备清单"
+    ],
+    "narration": "这场直播面向大三学生。我们会一起梳理用三个问题盘点课程成绩与科研经历，规划寒假前的行动事项和时间节点，直播集中答疑，整理材料准备清单。欢迎来直播间交流。",
+    "copy": "给大三学生准备了一场保研直播。我们会聊：用三个问题盘点课程成绩与科研经历；规划寒假前的行动事项和时间节点；直播集中答疑，整理材料准备清单。欢迎把想问的问题带到直播间。",
+    "image_prompt": "Photorealistic overhead view of an off-white paper planner and a pen on a study desk, jade green details, warm soft daylight, editorial photography, no legible words, no logos, space for overlay.",
+    "video_prompt": "Vertical editorial footage of a tidy study desk. Camera gently moves over an open blank planner and a pen, warm daylight, dark jade accents, no text, no people, no logos."
+  },
+  "schedule_display": "2026.12.05  20:00",
+  "provider_attempts": {},
+  "actual_seconds": 25.04,
+  "asset_origin": {
+    "background": "本地设计样例",
+    "opening": "本地动画样例",
+    "audio": "本地配乐样例"
+  }
+}
